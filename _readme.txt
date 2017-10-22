@@ -1,0 +1,1 @@
+The .json files contain one record per each line and therefore are not a standard JSON objects, but each line in the files contains a standard JSON object.

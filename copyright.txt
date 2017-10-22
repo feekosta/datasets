@@ -1,0 +1,13 @@
+The data in imdb_movies.json is downloaded and processed from http://www.imdb.com. Please refer to the copyright/license information at http://www.imdb.com/Copyright and http://www.imdb.com/interfaces. 
+According to http://www.imdb.com/interfaces:
+"The data is NOT FREE although it may be used for free in specific circumstances.".
+
+The data in drugbank_drugs.json is downloaded and processed from DrugBank http://drugbank.ca/.
+
+The other data files are downloaded and processed from DBpedia http://dbpedia.org and Freebase http://freebase.org. 
+
+Pleease refer to the source websites for copyright information and terms of use.
+
+All the data files are made available only for research purposes. We hold no responsibility for the accuracy, completeness and content of the files. Please contact us immediately if you believe these files contain copyrighted material that may not be distributed in this form.
+
+If you use the data in a reasearch project, please user URL http://purl.org/linkdiscovery/data/ or cite the related publication. A list of publications is available at http://purl.org/linkdiscovery/
